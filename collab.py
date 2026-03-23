@@ -1,3 +1,5 @@
+students={}
+
 def student_result(name,marks):
     if marks >= 50:
         print(name,"pass")
