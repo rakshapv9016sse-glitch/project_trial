@@ -1,0 +1,9 @@
+student={
+    "name":"raksha",
+    "age":20
+}
+food={
+    "cake":"chocolate",
+    "colour":"red"
+}
+print(student|food)

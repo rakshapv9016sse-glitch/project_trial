@@ -1,0 +1,10 @@
+a="raksha"
+b="cheesecake"
+c="chocolatecake"
+d="shawarma"
+e="icecream"
+print(a[0:5])
+print(b[0:6])
+print(c[0:9])
+print(d[0:3])
+print(e[0:3])

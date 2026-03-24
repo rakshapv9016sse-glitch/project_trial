@@ -1,0 +1,9 @@
+num=[10,20,30]
+num.append(40)
+print(num)
+num.insert(1,15)
+print(num)
+num.remove(30)
+print(num)
+num.pop()
+print(num)
