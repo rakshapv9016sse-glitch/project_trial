@@ -3,4 +3,6 @@ try:
     d=int(input("enter the second number:"))
     print(r/d)
 except:
-    print("division error")
+    print("division error!!!")
+
+
